@@ -16,7 +16,7 @@ Detailed instructions for Week 1 activities go here.
 
 # Personal Goals Document - Traders@SMU Alpha Program
 
-Ian Williams Irwilliams@smu.edu Level 1 (Junior) or Level 2 (Associate) Both? Not sure yet but will be attending as much as possible from both
+Ian Williams Irwilliams@smu.edu Level 1 (Junior) or Level 2 (Associate) Core- Will be attending some JQ sessions as well.
 
 1. Background in Quantitative Finance
 In this section, describe your current background in quantitative finance. This could include:
